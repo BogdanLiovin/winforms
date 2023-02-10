@@ -1,0 +1,6 @@
+D:\projects\lab_sale\lab sale\ageraiepf\Library\bin\Debug\Library.dll
+D:\projects\lab_sale\lab sale\ageraiepf\Library\bin\Debug\Library.pdb
+D:\projects\lab_sale\lab sale\ageraiepf\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\projects\lab_sale\lab sale\ageraiepf\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\projects\lab_sale\lab sale\ageraiepf\Library\obj\Debug\Library.dll
+D:\projects\lab_sale\lab sale\ageraiepf\Library\obj\Debug\Library.pdb

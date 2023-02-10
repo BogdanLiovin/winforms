@@ -1,0 +1,15 @@
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\bin\Debug\kurs.exe.config
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\bin\Debug\kurs.exe
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\bin\Debug\kurs.pdb
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.csproj.AssemblyReference.cache
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.csproj.SuggestedBindingRedirects.cache
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.Properties.Resources.resources
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.csproj.GenerateResource.cache
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.exe
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.pdb
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.Form1.resources
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\bin\Debug\Library.dll
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\bin\Debug\Library.pdb
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.csproj.CopyComplete
+D:\projects\lab_sale\lab sale\ageraiepf\kurs\obj\Debug\kurs.AddAircraft.resources
